@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/fylo/static/css/main.fef066b4.chunk.css",
+    "main.js": "/fylo/static/js/main.d457e8ae.chunk.js",
+    "main.js.map": "/fylo/static/js/main.d457e8ae.chunk.js.map",
+    "runtime-main.js": "/fylo/static/js/runtime-main.7df791e1.js",
+    "runtime-main.js.map": "/fylo/static/js/runtime-main.7df791e1.js.map",
+    "static/js/2.bdec776a.chunk.js": "/fylo/static/js/2.bdec776a.chunk.js",
+    "static/js/2.bdec776a.chunk.js.map": "/fylo/static/js/2.bdec776a.chunk.js.map",
+    "index.html": "/fylo/index.html",
+    "precache-manifest.4fdbe383aec123019db64088b0cdccd3.js": "/fylo/precache-manifest.4fdbe383aec123019db64088b0cdccd3.js",
+    "service-worker.js": "/fylo/service-worker.js",
+    "static/css/main.fef066b4.chunk.css.map": "/fylo/static/css/main.fef066b4.chunk.css.map",
+    "static/js/2.bdec776a.chunk.js.LICENSE.txt": "/fylo/static/js/2.bdec776a.chunk.js.LICENSE.txt",
+    "static/media/icon-arrow.svg": "/fylo/static/media/icon-arrow.e9fdc104.svg",
+    "static/media/icon-quotes.svg": "/fylo/static/media/icon-quotes.a51e6880.svg",
+    "static/media/illustration-1.svg": "/fylo/static/media/illustration-1.b54a6971.svg",
+    "static/media/illustration-2.svg": "/fylo/static/media/illustration-2.13d8305b.svg",
+    "static/media/logo.svg": "/fylo/static/media/logo.0786a620.svg",
+    "static/media/logo_white.svg": "/fylo/static/media/logo_white.6671a399.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7df791e1.js",
+    "static/js/2.bdec776a.chunk.js",
+    "static/css/main.fef066b4.chunk.css",
+    "static/js/main.d457e8ae.chunk.js"
+  ]
+}
